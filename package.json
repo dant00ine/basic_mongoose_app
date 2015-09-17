@@ -1,0 +1,25 @@
+{
+  "name": "basic_mongoose_app",
+  "version": "1.0.0",
+  "description": "A simple registration app that then displays registered users",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dant00ine/basic_mongoose_app.git"
+  },
+  "keywords": [
+    "mongoose",
+    "express",
+    "registration"
+  ],
+  "author": "Daniel Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dant00ine/basic_mongoose_app/issues"
+  },
+  "homepage": "https://github.com/dant00ine/basic_mongoose_app#readme"
+}
